@@ -63,5 +63,3 @@ This project showcases the implementation of an Artificial Neural Network for pr
 3. Run the Jupyter notebook to preprocess data, build, train, and evaluate the ANN model.
 
 ---
-
-**Note**: This README is generated based on the project structure and details provided in the notebook.
